@@ -1,0 +1,165 @@
+Admin Second Floor:Humidity	1
+Admin Second Floor:Temperature	2
+Automation Room Humidity:Humidity	3
+Automation Room Temp:Temperature	4
+CDA in First Floor:CO2	5
+CDA in First Floor:Humidity	6
+CDA in First Floor:Temperature	7
+CDA in First Floor:VOC	8
+Climatic Chamber Door:CO2	9
+Climatic Chamber Door:Humidity	10
+Climatic Chamber Door:Temperature	11
+Climatic Chamber:Temperature	12
+Humid_ClimaticChamber:Humidity	13
+Cold Chamber Door:CO2	14
+Cold Chamber Door:Humidity	15
+Cold Chamber Door:Temperature	16
+CSA in CS:CO2	17
+CSA in CS:Humidity	18
+CSA in CS:Temperature	19
+CSA in CS:VOC	20
+CSM in CS:CO2	21
+CSM in CS:Humidity	22
+CSM in CS:Temperature	23
+CSM in CS:VOC	24
+DQA:CO2	25
+DQA:Humidity	26
+DQA:Temperature	27
+DQA:VOC	28
+Effe sensor:CO2	29
+Effe sensor:Humidity	30
+Effe sensor:Temperature	31
+Effe sensor:VOC	32
+First Floor Stores Humidity:Humidity	33
+First Floor Stores Temperature:Temperature	34
+First Floor WashRoom:CO2	35
+First Floor WashRoom:Humidity	36
+First Floor WashRoom:Temperature	37
+First Floor WashRoom:VOC	38
+HeatChamber1 A:Temperature	39
+HeatChamber1 B:Temperature	40
+HeatChamber1 C:Temperature	41
+HeatChamber2 A:Temperature	42
+HeatChamber2 B:Temperature	43
+HeatChamber2 C:Temperature	44
+HeatChamber3 A:Temperature	45
+HeatChamber3 B:Temperature	46
+HeatChamber3 C:Temperature	47
+Hot Chamber Door:CO2	48
+Hot Chamber Door:Humidity	49
+Hot Chamber Door:Temperature	50
+Internal Testing:CO2	51
+Internal Testing:Humidity	52
+Internal Testing:Temperature	53
+Internal Testing:VOC	54
+Load A:Active Energy	55
+Load A:Active power	56
+Load A:Current	57
+Load A:Frequency	58
+Load A:I peak	59
+Load A:Power factor	60
+Load A:Reactive Energy	61
+Load A:Reactive power	62
+Load A:V peak	63
+Load A:Voltage	64
+Load B:Active Energy	65
+Load B:Active power	66
+Load B:Current	67
+Load B:Frequency	68
+Load B:I peak	69
+Load B:Power factor	70
+Load B:Reactive Energy	71
+Load B:Reactive power	72
+Load B:V peak	73
+Load B:Voltage	74
+Load C:Active Energy	75
+Load C:Active power	76
+Load C:Current	77
+Load C:Frequency	78
+Load C:I peak	79
+Load C:Power factor	80
+Load C:Reactive Energy	81
+Load C:Reactive power	82
+Load C:V peak	83
+Load C:Voltage	84
+Load D:Active Energy	85
+Load D:Active power	86
+Load D:Current	87
+Load D:Frequency	88
+Load D:I peak	89
+Load D:Power factor	90
+Load D:Reactive Energy	91
+Load D:Reactive power	92
+Load D:V peak	93
+Load D:Voltage	94
+Load E:Active Energy	95
+Load E:Active power	96
+Load E:Current	97
+Load E:Frequency	98
+Load E:I peak	99
+Load E:Power factor	100
+Load E:Reactive Energy	101
+Load E:Reactive power	102
+Load E:V peak	103
+Load E:Voltage	104
+Load F:Active Energy	105
+Load F:Active power	106
+Load F:Current	107
+Load F:Frequency	108
+Load F:I peak	109
+Load F:Power factor	110
+Load F:Reactive Energy	111
+Load F:Reactive power	112
+Load F:V peak	113
+Load F:Voltage	114
+Main Stores Humidity:Humidity	115
+Main Stores Temperature:Temperature	116
+MD Sir Cabin in R&D:CO2	117
+MD Sir Cabin in R&D:Humidity	118
+MD Sir Cabin in R&D:Temperature	119
+MD Sir Cabin in R&D:VOC	120
+MDSir Home:CO2	121
+MDSir Home:Humidity	122
+MDSir Home:Temperature	123
+MDSir Home:VOC	124
+Humid_NewColdChamber:Humidity	125
+NewColdChamber:Temperature	126
+Humid_NewHotChamber:Humidity	127
+NewHotChamber:Temperature	128
+R&D First Floor:Humidity	129
+R&D First Floor:Temperature	130
+R&D Second Floor:Humidity	131
+R&D Second Floor:Temperature	132
+R&D Stores Humidity:Humidity	133
+R&D Stores Temp:Temperature	134
+Reflow Zone1:Temperature	135
+Reflow Zone2:Temperature	136
+ReflowZone3:Temperature	137
+Server Rack:CO2	138
+Server Rack:Humidity	139
+Server Rack:Temperature	140
+Server Rack:VOC	141
+HUMD_Server_Rack:Humidity	142
+TEMP_Server_Rack:Temperature	143
+Server Room:CO2	144
+Server Room:Humidity	145
+Server Room:Temperature	146
+Server Room:VOC	147
+HUMD_ServerRoom:Humidity	148
+TEMP_ServerRoom:Temperature	149
+Soldering Zone in Production floor:CO2	150
+Soldering Zone in Production floor:DUST_1	151
+Soldering Zone in Production floor:Humidity	152
+Soldering Zone in Production floor:Temperature	153
+Soldering Zone in Production floor:VOC	154
+Stores in Ground Floor:CO2	155
+Stores in Ground Floor:Humidity	156
+Stores in Ground Floor:Temperature	157
+Stores in Ground Floor:VOC	158
+SysAdmin:CO2	159
+SysAdmin:Humidity	160
+SysAdmin:Temperature	161
+TEMC:CO2	162
+TEMC:Humidity	163
+TEMC:Temperature	164
+TEMC:VOC	165

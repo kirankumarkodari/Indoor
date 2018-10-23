@@ -1,0 +1,210 @@
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\NFC_DL_WebService.dll.config
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\NFC_DL_WebService.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\NFC_DL_WebService.pdb
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\Antlr3.Runtime.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\Cassandra.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\LZ4.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\Newtonsoft.Json.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Helpers.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Http.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Mvc.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Optimization.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Razor.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\WebGrease.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\Antlr3.Runtime.pdb
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\Cassandra.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Helpers.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Mvc.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Optimization.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Razor.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\Newtonsoft.Json.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Http.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\obj\Release\Effe Sensors Wifi Module.csprojResolveAssemblyReference.cache
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\obj\Release\NFC_DL_WebService.dll
+C:\Users\venkatanaresh\Desktop\Wifi Module\NFC_DL_WebService\obj\Release\NFC_DL_WebService.pdb
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\NFC_DL_WebService.dll.config
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\NFC_DL_WebService.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\NFC_DL_WebService.pdb
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\Antlr3.Runtime.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\Cassandra.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\LZ4.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\Microsoft.Web.Infrastructure.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\Newtonsoft.Json.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Net.Http.Formatting.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Helpers.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Http.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Http.WebHost.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Mvc.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Optimization.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Razor.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.Razor.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\WebGrease.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\Antlr3.Runtime.pdb
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\Cassandra.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Helpers.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Mvc.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Optimization.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Razor.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.WebPages.Razor.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\Newtonsoft.Json.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Net.Http.Formatting.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Http.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\bin\System.Web.Http.WebHost.xml
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\obj\Release\Effe Sensors Wifi Module.csprojResolveAssemblyReference.cache
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\obj\Release\NFC_DL_WebService.dll
+D:\Dabbeeru Venkata Naresh\Projects\Big Data\Programming\Cassandra\Wifi Module\NFC_DL_WebService\obj\Release\NFC_DL_WebService.pdb
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\NFC_DL_WebService.dll.config
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\NFC_DL_WebService.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\NFC_DL_WebService.pdb
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\Antlr3.Runtime.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\Cassandra.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\LZ4.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\Microsoft.Web.Infrastructure.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\Newtonsoft.Json.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Net.Http.Formatting.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Helpers.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.WebHost.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Mvc.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Optimization.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Razor.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Razor.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\WebGrease.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\Antlr3.Runtime.pdb
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\Cassandra.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Helpers.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Mvc.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Optimization.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Razor.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Razor.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\Newtonsoft.Json.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Net.Http.Formatting.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.WebHost.xml
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\obj\Release\Effe Sensors Wifi Module.csprojResolveAssemblyReference.cache
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\obj\Release\NFC_DL_WebService.dll
+D:\Anusha\Effe Sensors\Wifi Module - Copy\NFC_DL_WebService\obj\Release\NFC_DL_WebService.pdb
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\NFC_DL_WebService.dll.config
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\NFC_DL_WebService.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\NFC_DL_WebService.pdb
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Antlr3.Runtime.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Cassandra.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\LZ4.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Newtonsoft.Json.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Helpers.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Mvc.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Optimization.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Razor.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\WebGrease.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Antlr3.Runtime.pdb
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Cassandra.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Helpers.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Mvc.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Optimization.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Razor.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Newtonsoft.Json.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\obj\Release\Effe Sensors Wifi Module.csprojResolveAssemblyReference.cache
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\obj\Release\NFC_DL_WebService.dll
+C:\Users\srilaxmi\Desktop\Wifi Module - Copy\NFC_DL_WebService\obj\Release\NFC_DL_WebService.pdb
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\NFC_DL_WebService.dll.config
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\NFC_DL_WebService.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\NFC_DL_WebService.pdb
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Antlr3.Runtime.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Cassandra.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\LZ4.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Newtonsoft.Json.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Helpers.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Mvc.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Optimization.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Razor.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\WebGrease.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Antlr3.Runtime.pdb
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Cassandra.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Helpers.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Mvc.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Optimization.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Razor.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\Newtonsoft.Json.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\obj\Release\Effe Sensors Wifi Module.csprojResolveAssemblyReference.cache
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\obj\Release\NFC_DL_WebService.dll
+C:\Users\anushask\Desktop\Wifi Module - Copy\NFC_DL_WebService\obj\Release\NFC_DL_WebService.pdb
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\NFC_DL_WebService.dll.config
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\NFC_DL_WebService.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\NFC_DL_WebService.pdb
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\Antlr3.Runtime.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\Cassandra.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\LZ4.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\Newtonsoft.Json.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Helpers.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Http.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Mvc.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Optimization.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Razor.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.WebPages.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\WebGrease.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\Antlr3.Runtime.pdb
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\Cassandra.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Helpers.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Mvc.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Optimization.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Razor.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.WebPages.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\Newtonsoft.Json.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Http.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\obj\Release\Effe Sensors Wifi Module.csprojResolveAssemblyReference.cache
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\obj\Release\NFC_DL_WebService.dll
+C:\Users\anushask\Desktop\Handours-Anusha\Cassandra\Wifi Module - Chandra\NFC_DL_WebService\obj\Release\NFC_DL_WebService.pdb

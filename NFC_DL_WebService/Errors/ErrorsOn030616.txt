@@ -1,0 +1,28 @@
+06/03/2016 4:41:11 PM: In postQuery() while Executing Queries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NFC_DL_WebService.Models.dbModule.postQuery(List`1 queries) in c:\Users\venkatanaresh\Desktop\Energy Auditor Code\NFC_DL_WebService\Models\dbModule.cs:line 56
+*************************************************************
+06/03/2016 4:43:05 PM: In postQuery() while Executing Queries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NFC_DL_WebService.Models.dbModule.postQuery(List`1 queries) in c:\Users\venkatanaresh\Desktop\Energy Auditor Code\NFC_DL_WebService\Models\dbModule.cs:line 56
+*************************************************************
+06/03/2016 8:41:17 PM: Firebird Error:
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): I/O error during "CreateFile (open)" operation for file "C:\NMRH\BACKUP\160524001.GDB"
+Error while trying to open file ---> I/O error during "CreateFile (open)" operation for file "C:\NMRH\BACKUP\160524001.GDB"
+Error while trying to open file
+   at FirebirdSql.Data.FirebirdClient.FbConnectionInternal.Connect()
+   at FirebirdSql.Data.FirebirdClient.FbConnectionPool.Create()
+   at FirebirdSql.Data.FirebirdClient.FbConnectionPool.CheckOut()
+   at FirebirdSql.Data.FirebirdClient.FbConnection.Open()
+   at NFC_DL_WebService.Models.dbModule.postQueryIntoFB(String sqlQuery) in c:\Users\venkatanaresh\Desktop\Energy Auditor Code\NFC_DL_WebService\Models\dbModule.cs:line 100
+*************************************************************
+06/03/2016 8:44:39 PM: Firebird Error:
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): I/O error during "CreateFile (open)" operation for file "C:\NMRH\BACKUP\160524001.GDB"
+Error while trying to open file ---> I/O error during "CreateFile (open)" operation for file "C:\NMRH\BACKUP\160524001.GDB"
+Error while trying to open file
+   at FirebirdSql.Data.FirebirdClient.FbConnectionInternal.Connect()
+   at FirebirdSql.Data.FirebirdClient.FbConnectionPool.Create()
+   at FirebirdSql.Data.FirebirdClient.FbConnectionPool.CheckOut()
+   at FirebirdSql.Data.FirebirdClient.FbConnection.Open()
+   at NFC_DL_WebService.Models.dbModule.postQueryIntoFB(String sqlQuery) in c:\Users\venkatanaresh\Desktop\Energy Auditor Code\NFC_DL_WebService\Models\dbModule.cs:line 100
+*************************************************************
